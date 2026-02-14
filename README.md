@@ -62,17 +62,12 @@
 
 <h2 align="left">📫 Contato</h2>
 
-<div align="center">
-  <h2> 📩 Contatos </h2>
-
-  <a href="https://www.linkedin.com/in/gabriel-gallego-0a385b332" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto: gabriel.nascimentolopesgallego@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/gabriel-gallego-0a385b332" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:gabriel.nascimentolopesgallego@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 ###
 ### 📊 Estatísticas
