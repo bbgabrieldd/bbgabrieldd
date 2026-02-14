@@ -1,12 +1,12 @@
 <div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-gallego-0a385b332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <br><br>
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
   <h1>Gabriel Gallego</h1>
-  <p>Desenvolvedor de Software</p>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas | Foco em Back-end Java</p>
 </div>
-
-
-
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)  <br>💻 Foco em Desenvolvimento Back-end (Java)  <br>🇧🇷 Brasil</p>
 
 ###
 
