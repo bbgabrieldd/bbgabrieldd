@@ -1,5 +1,8 @@
-<h1 align="left">Olá👋 Me chamo Gabriel</h1>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+  <h1>Gabriel Gallego</h1>
+  <p>Desenvolvedor de Software</p>
+</div>
 ###
 
 <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)  <br>💻 Foco em Desenvolvimento Back-end (Java)  <br>🇧🇷 Brasil</p>
