@@ -62,14 +62,16 @@
 
 <h2 align="left">📫 Contato</h2>
 
-###
+<div align="center">
+  <h2> 📩 Contatos </h2>
 
-<p align="left">- LinkedIn: linkedin.com/in/gabriel- gallego-0a385b332<br><br>- Email: gabriel.nascimentolopesgallego@gmail.com</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <a href="https://www.linkedin.com/in/gabriel-gallego-0a385b332" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto: gabriel.nascimentolopesgallego@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
 ###
