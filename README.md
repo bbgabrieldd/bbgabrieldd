@@ -3,7 +3,8 @@
   <h1>Gabriel Gallego</h1>
   <p>Desenvolvedor de Software</p>
 </div>
-###
+
+
 
 <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)  <br>💻 Foco em Desenvolvimento Back-end (Java)  <br>🇧🇷 Brasil</p>
 
