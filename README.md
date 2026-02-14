@@ -69,3 +69,9 @@
 </div>
 
 ###
+### 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bbgabrieldd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbgabrieldd&layout=compact&theme=dark" alt="Top Languages" />
+</div>
