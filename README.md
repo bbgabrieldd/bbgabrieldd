@@ -1,7 +1,6 @@
 <div align="left">
   <br>
   <h1>Gabriel Gallego</h1>
-  <p>Estudante de Análise e Desenvolvimento de Sistemas | Back-end Java</p>
 </div>
 
 ---
