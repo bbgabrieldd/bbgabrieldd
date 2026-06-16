@@ -20,7 +20,7 @@ Atualmente aprofundando conhecimentos em **Programação Orientada a Objetos (PO
 
 ##  Linguagens e Ferramentas
 
-** Back-end & Tools**
+Back-end & Tools
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
