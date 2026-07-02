@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/gabriel-gallego-0a385b332" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="48" alt="linkedin logo"  />
   </a>
-  <a href="gabriel.nascimentolopesgallego@gmail.com" target="_blank">
+ <a href="mailto:gabriel.nascimentolopesgallego@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="48" alt="gmail logo"  />
   </a>
 </div>
